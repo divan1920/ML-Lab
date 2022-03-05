@@ -8,4 +8,4 @@
 
 ## Subject : Machine Learning
 
-This Repository is created for Submission of Termwork in the subject of Machine Learning Taught by Varalakshmi Iyer and Brijes S. Bhatt in year 2021-22 at Dharmsinh Desai University, Nadiad.
+### This Repository is created for Submission of Termwork in the subject of Machine Learning Taught by Varalakshmi Iyer and Brijes S. Bhatt in year 2021-22 at Dharmsinh Desai University, Nadiad.
