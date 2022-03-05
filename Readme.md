@@ -1,7 +1,8 @@
-# CE035_Munaf_Divan
+# Machine Learning Labwork By Munaf S. Divan
 
-Name is Munaf Divan.
-Student Id is 19CEUBG006
+Name : Munaf Divan.
+Student Id : 19CEUBG006
+Roll No : CE035
+Subject : Machine Learning
 
-This Repository is created for Submission of Termwork in the subject of Machine Learning 
-Taught by Varalakshmi Iyer and Brijes S. Bhatt at Dharmsinh Desai University, Nadiad.
+This Repository is created for Submission of Termwork in the subject of Machine Learning Taught by Varalakshmi Iyer and Brijes S. Bhatt in year 2021-22 at Dharmsinh Desai University, Nadiad.
